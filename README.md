@@ -5,7 +5,7 @@
 
 ## 🚀 Tecnologias
 <div>
-  <img alt="Static Badge" src="https://img.shields.io/badge/Alura-ONE-Java?color=red" width="160" height="40">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Alura-ONE-Java?color=red" width="260" height="40">
   <img alt="Static Badge" src="https://img.shields.io/badge/Java%20Alura%20One-POO-One" width="160" height="40">
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" width="160" height="40">
   <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" width="160" height="40">
