@@ -14,5 +14,5 @@
 
 <h3>👨 TIME</h3>
 <div>
-  <img style="height:auto;" alt="" src="https://avatars.githubusercontent.com/u/168025112?v=4" width="60" height="160" class="avatar avatar-user width-full border color-bg-default">
+  <img style="height:auto;" alt="" src="https://avatars.githubusercontent.com/u/168025112?v=4" width="60" height="60" class="avatar avatar-user width-full border color-bg-default">
 </div>
